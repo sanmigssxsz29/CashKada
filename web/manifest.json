@@ -1,0 +1,9 @@
+{
+  "name": "CashKada E-Payment",
+  "short_name": "CashKada",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f7f4",
+  "theme_color": "#16794d",
+  "description": "CashKada expense tracking and e-payments."
+}
